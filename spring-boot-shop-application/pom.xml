@@ -16,11 +16,6 @@
 	<dependencies>
 		<dependency>
 			<groupId>fr.training.samples</groupId>
-			<artifactId>spring-boot-shop-domaine</artifactId>
-			<version>1.0-SNAPSHOT</version>
-		</dependency>
-		<dependency>
-			<groupId>fr.training.samples</groupId>
 			<artifactId>spring-boot-shop-infrastructure</artifactId>
 			<version>1.0-SNAPSHOT</version>
 		</dependency>
